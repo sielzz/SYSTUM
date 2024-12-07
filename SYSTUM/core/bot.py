@@ -45,7 +45,7 @@ class KING(Client):
         a = await self.get_chat_member(config.LOGGER_ID, self.id)
         if a.status != ChatMemberStatus.ADMINISTRATOR:
             LOGGER(__name__).error(
-                "Please promote your bot as an admin in your log group/channel."
+                "JADIIN TUAN ADMIN DULU DI GRUP/CHANNEL BIAR BISA PLAY."
             )
             exit()
         LOGGER(__name__).info(f"Music Bot Started as {self.name}")
