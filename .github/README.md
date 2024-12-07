@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/WCGKING/stargazers"><img src="https://img.shields.io/github/stars/WCGKING/SYSTUM?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/WCGKING/SYSTUM/network/members"> <img src="https://img.shields.io/github/forks/WCGKING/SYSTUM?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/WCGKING/SYSTUM/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/sielzz/SYSTUM"><img src="https://img.shields.io/github/stars/WCGKING/SYSTUM?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/sielzz/SYSTUM/network/members"> <img src="https://img.shields.io/github/forks/sielzz/SYSTUM?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/sielzz/SYSTUM/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/WCGKING/SYSTUM/commits/WCGKING"> <img src="https://img.shields.io/github/last-commit/WCGKING/SYSTUM?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/sielzz/SYSTUM/commits/WCGKING"> <img src="https://img.shields.io/github/last-commit/sielzz/SYSTUM?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
    <p align="center">
@@ -31,7 +31,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/WCGKING/SYSTUM/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/sielzz/SYSTUM/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -43,7 +43,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/WCGKING/SYSTUM && cd SYSTUM`
+`git clone https://github.com/sielzz/SYSTUM && cd SYSTUM`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -64,11 +64,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/BRANDED_WORLD"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+3q7uhUBKvh5iOTFl"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/BRANDRD_BOT"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/aaf_store"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://github.com/WCGKING) ғᴏʀ [ʙʀᴀɴᴅᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/WCGKING/SYSTUM). </b>
+- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://github.com/WCGKING) ғᴏʀ [ᴀᴀꜰ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/sielzz/SYSTUM). </b>
