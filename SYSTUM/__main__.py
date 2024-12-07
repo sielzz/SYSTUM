@@ -40,7 +40,7 @@ async def init():
     await KING.start()
     await KING.decorators()
     LOGGER("SYSTUM").info(
-        "DROP YOUR GIRLFRIEND'S NUMBER AND SEXY PIC TO @BRANDEDKING82 JOIN @BRANDRD_BOT , @BRANDED_WORLD FOR ANY ISSUES"
+        "DROP YOUR GIRLFRIEND'S NUMBER AND SEXY PIC TO @APASIIAJG JOIN @AAF_STORE FOR ANY ISSUES"
     )
     await idle()
     await app.stop()
